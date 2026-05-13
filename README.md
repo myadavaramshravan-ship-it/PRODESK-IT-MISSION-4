@@ -31,4 +31,4 @@ JavaScript (Vanilla JS)
 - Dark mode support
 - Better mobile responsiveness
   
-## Note: you have to use .env file for api key it is mandatory field!!
+## Note: You have to use .env file for api key it is mandatory field!!
