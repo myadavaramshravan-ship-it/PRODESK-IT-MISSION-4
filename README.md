@@ -30,3 +30,4 @@ JavaScript (Vanilla JS)
 - Multiple cover letter templates
 - Dark mode support
 - Better mobile responsiveness
+##Note: you have to use .env file for api key it is mandatory field!!
